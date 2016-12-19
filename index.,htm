@@ -15,5 +15,5 @@
 <script type="text/javascript" src="js/jquery-1.11.2.js"></script>
 <script type="text/javascript" src="js/bootstrap.min.js"></script>
 <script type="text/javascript" src="js/moment.min.js"></script>
-
+<script type="text/javascript" src="js/-wfa-myriad-pro-typekit.js"></script>
 </html>
