@@ -1,4 +1,5 @@
 # this is the base code for all wfa field facing sites
+# includes site.css base style for wfa
 # includes bootstrap.css v3
 # includes bootstrap.min.css v3
 # includes bootstrap.js v3
